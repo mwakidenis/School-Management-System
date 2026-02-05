@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Follow these steps to clone the repository, install dependencies, and start the development servers.
+Follow these steps to clone the repository, install dependencies, and start the development servers. 
 
 ### Prerequisites
 

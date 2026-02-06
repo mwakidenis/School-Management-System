@@ -1,10 +1,11 @@
 
+
+
 name: python script
 
 on:
   schedule:
-   - cron: "12 */1 * * *" 
-
+    - cron: "*/17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,4 +27,4 @@ jobs:
             git commit -m "Update timestamp: $(date -u)"
           fi
       - name: Push changes
-        run: git push origin HEAD cron  2hrs min
+        run: git push origin HEAD

@@ -340,11 +340,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-[🏠 Website](https://schoolms.com) | [📖 Documentation](docs/) | [🐛 Report Bug](https://github.com/Arison99/School-Management-System/issues) | [💡 Request Feature](https://github.com/Arison99/School-Management-System/issues)
+[🏠 Website](https://schoolms.com) | [📖 Documentation](docs/) | [🐛 Report Bug](https://github.com/Arison99/School-Management-System/issues) | [💡 Request Feature](https://github.com/mwakidenis/School-Management-System/issues)
 
 <!-- GitAds-Verify: A3898VA57LNIZEPDEGTSOVBB3TUDWA6H -->
 
-Made with ❤️ by the Arison99
+Made with ❤️ by the mwakidenis
 
 </div>
 
